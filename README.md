@@ -1,11 +1,17 @@
 # Sistema de Monitoramento de Missão Espacial
 
 > GS2026.1 — Programação Aplicada ao Monitoramento de Missão Espacial  
-> Linguagem: Python 3 | Terminal interativo | Sem dependências externas
+> Linguagem: Python 3 | Terminal interativo
 
 ---
 
-## 📋 Índice
+## Integrantes
+Aneliza Rondina Bonafé - RM: 572977
+Rafaella Ferreira de Moraes - RM: 571030
+
+---
+
+## Índice
 
 1. [Objetivo](#objetivo)
 2. [Solução Desenvolvida](#solução-desenvolvida)
