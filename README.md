@@ -166,6 +166,12 @@ Se nenhuma condição crítica for encontrada, o status geral exibido é **MISSA
 
 ---
 
+## Fluxograma
+
+![Fluxograma](fluxograma_gs.drawio.png)
+
+---
+
 ## Conclusão
 
 O sistema cumpre todos os requisitos da atividade GS2026.1. Foi implementado em Python sem bibliotecas externas, de forma acessível para iniciantes, aplicando os principais conceitos vistos em aula:
