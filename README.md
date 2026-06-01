@@ -168,6 +168,7 @@ Se nenhuma condição crítica for encontrada, o status geral exibido é **MISSA
 
 ## Fluxograma
 
+![Fluxograma](fluxograma_gs.drawio.png)
 
 ---
 
