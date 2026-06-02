@@ -187,4 +187,12 @@ O sistema pode ser expandido futuramente com geração de relatórios em arquivo
 
 ---
 
+## Vídeo
+
+Este é o link do vídeo explicativo do sistema e de sua utilização.
+
+[Vídeo no Youtube](https://youtu.be/4zMQwxz-VyE)
+
+---
+
 *Atividade desenvolvida para GS2026.1 — Programação Aplicada ao Monitoramento de Missão Espacial*
